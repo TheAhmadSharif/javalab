@@ -1,0 +1,8 @@
+----------------------------
+29 September 2018
+----------------------------
+
+export PATH=$PATH:~/apps/jdk1.8.0_144/bin
+javac filename.java
+java -version 
+
